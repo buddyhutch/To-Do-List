@@ -1,0 +1,18 @@
+[
+  {
+    "task": "feed dog",
+    "done": true
+  },
+  {
+    "task": "get milk",
+    "done": true
+  },
+  {
+    "task": "jiu-jitsu practice",
+    "done": false
+  },
+  {
+    "task": "Make Coffee",
+    "done": false
+  }
+]
